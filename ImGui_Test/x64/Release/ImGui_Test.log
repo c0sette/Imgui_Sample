@@ -1,0 +1,12 @@
+﻿  gui.cpp
+c:\users\jimsk\desktop\dont open this\lab\imgui_test\imgui_test\gui\gui.cpp(45): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data
+c:\users\jimsk\desktop\dont open this\lab\imgui_test\imgui_test\gui\gui.cpp(51): error C2440: '=': cannot convert from 'long (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'WNDPROC'
+  c:\users\jimsk\desktop\dont open this\lab\imgui_test\imgui_test\gui\gui.cpp(51): note: This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+  menu.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
